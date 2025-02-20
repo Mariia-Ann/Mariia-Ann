@@ -1,6 +1,30 @@
-# Hello, I'm Mariia 👋
+<div id="header" align="center">
+ <h1>Hey there, I'm Mariia!</h1>
+</div>
 
-Welcome to my GitHub profile!
+### About Me :
+
+Junior Frontend Developer
+
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+       🇬🇧 English - Pre-Intermediate
+        
+  </tr>
+
+  <tr>
+    
+         🇺🇦 Ukrainian - Native
+        
+  </tr>
+</table>
+</div>
+
+### GitHub Stats :
 
 <table align="center">
   <tbody><tr>
