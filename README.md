@@ -12,7 +12,7 @@ Junior Frontend Developer
 <table  align="center">
   <tr>
     
-       🇬🇧 English - Pre-Intermediate
+         🇬🇧 English - Pre-Intermediate
         
   </tr>
 
