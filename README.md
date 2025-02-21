@@ -12,13 +12,13 @@ Junior Frontend Developer
 <table  align="center">
   <tr>
     
-         🇬🇧 English - Pre-Intermediate
+         English - Pre-Intermediate
         
   </tr>
 
   <tr>
     
-         🇺🇦 Ukrainian - Native
+         Ukrainian - Native
         
   </tr>
 </table>
